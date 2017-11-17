@@ -1,5 +1,9 @@
+//Created by DOston Hamrakulov
+//10.02.2017 in Riga, Latvia
 package Fourth_work;
 
+//Created by DOston Hamrakulov
+//10.02.2017 in Riga, Latvia
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;

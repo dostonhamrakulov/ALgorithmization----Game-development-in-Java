@@ -1,3 +1,6 @@
+//Created by DOston Hamrakulov
+//10.02.2017 in Riga, Latvia
+
 package Third_work;
 
 import java.io.File;

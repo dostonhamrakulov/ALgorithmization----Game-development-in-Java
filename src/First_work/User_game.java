@@ -1,3 +1,6 @@
+//Created by DOston Hamrakulov
+//10.02.2017 in Riga, Latvia
+
 package First_work;
 
 import java.util.*;
