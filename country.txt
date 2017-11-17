@@ -1,0 +1,66 @@
+default zero country
+China
+Japan
+South Korea
+Uzbekistan
+India
+Bangladesh
+Iran
+Nepal
+Pakistan
+Turkey
+Tajikistan
+Russian Federation
+United Arab Emirates
+Vietnam
+Singapore
+Namibia
+Ghana
+Egypht
+Congo
+Algeria
+Angola
+Cameroon
+Gambia
+Kenya
+Libya
+Liberia
+Ethiopia
+Nigeria
+Niger
+Somalia
+Brazil
+Chili
+Argentina
+Peru
+Ecuador
+Bolivia
+Guyana
+Paraguay
+Uruguay
+Venezuela
+Canada
+Cuba
+Mexico
+Honduras
+Panama
+Honduras
+Dominica
+USA
+Cuba
+Mexico
+Malta
+Liechtenstein
+Iceland
+Georgia
+Cyrpus
+Albania
+Armenia
+Azerbaijan
+Bulgaria
+Czech Republic
+Finland
+Hungary
+Luxembourg
+Moldova
+Norway
